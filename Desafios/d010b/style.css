@@ -75,6 +75,7 @@ nav {
 }
 
 nav > a {
+    min-width: 300px;
     color: var(--cor1);
     padding: 10px;
     border-radius: 5px;
